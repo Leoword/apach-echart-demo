@@ -31,7 +31,7 @@ export default {
         x: '34%',
         y: '48%',
         textStyle: {
-            color: '#8c949a',
+            color: '#35FDFB',
             fontSize: 20,
             fontWeight: 'normal',
         }
